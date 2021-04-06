@@ -2,5 +2,4 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
-Creating a nev branch is quick.
-creating
+Creating a nev branch is quick AND simple.
